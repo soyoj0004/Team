@@ -1,0 +1,34 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ò…³¤8€Ö£­ñ1
+D
+java:S2189K""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8³Ö£­ñ1
+G	java:S106>"+Replace this use of System.out by a logger.(Ç€Ï°8·Ö£­ñ1
+L	java:S106L"+Replace this use of System.out by a logger.(ñ¥³Õùÿÿÿÿ8ºÖ£­ñ1
+L	java:S106M"+Replace this use of System.out by a logger.(¹šƒùüÿÿÿÿ8»Ö£­ñ1
+G	java:S106N"+Replace this use of System.out by a logger.(ó™ûÃ8»Ö£­ñ1
+L	java:S106O"+Replace this use of System.out by a logger.(©™ï‘ûÿÿÿÿ8»Ö£­ñ1
+L	java:S106P"+Replace this use of System.out by a logger.(ö–²üøÿÿÿÿ8»Ö£­ñ1
+L	java:S106Q"+Replace this use of System.out by a logger.(¸èÓÿÿÿÿÿ8»Ö£­ñ1
+L	java:S106R"+Replace this use of System.out by a logger.(—ù¦ùÿÿÿÿ8»Ö£­ñ1
+L	java:S106f"+Replace this use of System.out by a logger.(Ùİ–±úÿÿÿÿ8¼Ö£­ñ1
+G	java:S106j"+Replace this use of System.out by a logger.(ØÁ‰ø8¼Ö£­ñ1
+L	java:S106p"+Replace this use of System.out by a logger.(ŸĞÊ£ùÿÿÿÿ8¼Ö£­ñ1
+L	java:S106t"+Replace this use of System.out by a logger.(ÑâúÆıÿÿÿÿ8½Ö£­ñ1
+G	java:S106x"+Replace this use of System.out by a logger.(š¿«ç8½Ö£­ñ1
+F	java:S106z"+Replace this use of System.out by a logger.(¶ÄÂ8½Ö£­ñ1
+M	java:S106"+Replace this use of System.out by a logger.(¯³Á€ÿÿÿÿÿ8¾Ö£­ñ1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(Ò¥¢î8¾Ö£­ñ1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(œˆ²ø8¾Ö£­ñ1
+H	java:S106Š"+Replace this use of System.out by a logger.(Ú³·œ8¾Ö£­ñ1
+H	java:S106‘"+Replace this use of System.out by a logger.(á•Ú‡8¿Ö£­ñ1
+M	java:S106–"+Replace this use of System.out by a logger.(£ËŞüÿÿÿÿ8¿Ö£­ñ1
+H	java:S106š"+Replace this use of System.out by a logger.(œˆ²ø8¿Ö£­ñ1
+M	java:S106œ"+Replace this use of System.out by a logger.(ÕŞüÌùÿÿÿÿ8¿Ö£­ñ1
+H	java:S106£"+Replace this use of System.out by a logger.(Ÿ™Ìµ8ÀÖ£­ñ1
+M	java:S106¨"+Replace this use of System.out by a logger.(£ËŞüÿÿÿÿ8ÀÖ£­ñ1
+M	java:S106µ"+Replace this use of System.out by a logger.(äÃ²¿şÿÿÿÿ8ÀÖ£­ñ1
+M	java:S106·"+Replace this use of System.out by a logger.(Şş’şÿÿÿÿ8ÁÖ£­ñ1
+M	java:S106¸"+Replace this use of System.out by a logger.(›ùíÛøÿÿÿÿ8ÁÖ£­ñ1
+H	java:S106º"+Replace this use of System.out by a logger.(Ÿ£Î8ÁÖ£­ñ1
+H	java:S106¼"+Replace this use of System.out by a logger.(òÔÇÍ8ÁÖ£­ñ1
